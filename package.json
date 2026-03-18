@@ -1,0 +1,10 @@
+{
+  "name": "ens-brick-identity",
+  "version": "1.0.0",
+  "scripts": {
+    "set-profile": "node ens-agent.js"
+  },
+  "dependencies": {
+    "ethers": "^6.7.0"
+  }
+}
