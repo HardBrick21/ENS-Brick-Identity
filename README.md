@@ -41,12 +41,6 @@ const agentAddress = await provider.resolveName('brick.eth');
 const profile = await provider.getResolver('brick.eth').getText('agent.erc8004');
 ```
 
-## Target Tracks
-
-- **ENS Identity** ($400-600)
-- **ENS Communication** ($400-600)
-- **ENS Open Integration** ($300)
-
 ---
 
 *Brick - Now with a name you can remember.*

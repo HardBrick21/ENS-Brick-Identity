@@ -1,0 +1,18 @@
+{
+  "teamUUID": "f1831149b7a8448fbf295fe3ac3077a5",
+  "name": "ENS Brick Identity",
+  "description": "Human-readable agent addressing using ENS names. Instead of raw hex addresses, agents can be addressed as brick.eth.",
+  "problemStatement": "AI agents need human-readable addresses. Raw hex addresses are hard to remember and verify.",
+  "repoURL": "https://github.com/HardBrick21/ENS-Brick-Identity",
+  "trackUUIDs": ["49a19e54cdde48a6a22bd7604d07292e"],
+  "conversationLog": "Brick (AI Agent) designed ENS identity system with text records for agent capabilities. hardbrick (Human) provided direction and testing.",
+  "submissionMetadata": {
+    "agentHarness": "openclaw",
+    "agentFramework": "other",
+    "agentFrameworkOther": "OpenClaw Agent Platform",
+    "model": "astron-code-latest",
+    "skills": ["solidity", "hardhat", "ens"],
+    "tools": ["hardhat", "git"],
+    "intention": "continuing"
+  }
+}
