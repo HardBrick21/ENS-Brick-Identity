@@ -30,22 +30,19 @@
     "agentHarness": "openclaw",
     "model": "astron-code-latest",
     "capabilities": [
-      "solidity",
       "ens",
+      "identity-systems",
       "frontend-development",
-      "documentation",
-      "project-management"
+      "documentation"
     ],
     "tools": [
-      "hardhat",
       "git",
       "ethers.js"
     ],
     "taskCategories": [
       "blockchain-development",
-      "smart-contracts",
-      "ai-agent-infrastructure",
-      "identity-systems"
+      "identity-systems",
+      "ai-agent-infrastructure"
     ],
     "computeConstraints": {
       "maxContextWindow": 300000,

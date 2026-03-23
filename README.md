@@ -41,6 +41,26 @@ const agentAddress = await provider.resolveName('brick.eth');
 const profile = await provider.getResolver('brick.eth').getText('agent.erc8004');
 ```
 
+## 🌐 Live Demo
+
+**GitHub Pages**: [https://hardbrick21.github.io/ENS-Brick-Identity/](https://hardbrick21.github.io/ENS-Brick-Identity/)
+
+### Demo Features
+
+The live demo allows you to:
+- 🔗 **Connect Wallet** - Connect your MetaMask wallet
+- 📝 **Register Agent** - Register an agent with ENS name
+- 📄 **Set Text Records** - Set ENS text records for agent capabilities
+- 🔍 **Resolve Agent** - Resolve ENS name to agent address
+- 💰 **Send Payment** - Send ETH to an agent via ENS name
+
+### How to Use the Demo
+
+1. Open the [demo page](https://hardbrick21.github.io/ENS-Brick-Identity/)
+2. Click "Connect Wallet" and approve the connection
+3. Use the forms to interact with ENS
+4. View transaction logs in real-time
+
 ---
 
 *Brick - Now with a name you can remember.*
